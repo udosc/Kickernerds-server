@@ -1,0 +1,88 @@
+div.topleft {
+	float:left;
+	margin:5px;
+	width:305px;
+	height:180px;
+	border:1px solid #aaaaaa;
+	background-color: #FF0000;
+}
+div.topmiddle{
+	float:left;
+	margin:5px;
+	width:450px;
+	height:180px;
+	border:1px solid #aaaaaa;
+	background-color: #FF0000;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+}
+div.lastpicks{
+	width:445px;
+	height:145px;
+}
+div.chat{
+	float:left;
+	margin:5px;
+	width:500px;
+	height:180px;
+	border: 1px solid #aaaaaa;
+	font-family:Verdana;
+	font-size:11px;
+}
+div.chattext{
+	height:135px;
+	border: 1px solid #aaaaaa;
+	font-family:Verdana;
+	font-size:11px;
+	overflow:scroll;
+}
+div.announcements{
+	float:left;
+	margin:5px;
+	height:20px;
+	width:1280px;
+	background-color: #FF0000;
+	font-family:Verdana;
+	font-size:11px;
+	color:#ffffff;
+	
+}
+div.draft{
+	float:left;
+	margin:5px;
+	border:1px solid #aaaaaa;
+}
+div.management{
+	float:left;
+	margin:5px;
+	border:1px solid #aaaaaa;
+	font-family:Verdana;
+	font-size:11px;
+}
+div.other{
+	float:left;
+	margin:5px;
+	border:1px solid #aaaaaa;
+	font-family:Verdana;
+	font-size:11px;
+}
+
+table.spielerliste {
+	float:left;
+	margin:2px;
+	font-family:Verdana;
+	font-size:11px;
+}
+table.manager {
+	float:left;
+	margin:2px;
+	font-family:Verdana;
+	font-size:11px;
+}
+tr.row_1 {height:20px;background-color: #eeeeee;}
+tr.row_2 {height:20px;background-color: #ffffff;}
+th.header {height:20px;background-color: #FF4444; color: #ffffff;}
+td.head {height:20px;background-color: #FF4444; color: #ffffff;}
+td.small {width:30px;}
+td.big {width:70px;}
